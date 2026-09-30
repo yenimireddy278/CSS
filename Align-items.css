@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    
+    align-items: center;
+    /* stretch
+    flex-start
+    center
+    flex-end */
+    
+    height: 300px;
+    border: 3px solid black;
+}
+
+.box {
+    background-color: lightpink;
+    border: 2px solid deeppink;
+    
+    padding: 30px;
+    margin: 10px;
+}
